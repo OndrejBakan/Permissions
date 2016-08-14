@@ -1,0 +1,10 @@
+{
+    "name": "ondrejbakan/permissions",
+    "authors": [
+        {
+            "name": "Ondrej Bakan",
+            "email": "ondrej@bakan.cz"
+        }
+    ],
+    "require": {}
+}
