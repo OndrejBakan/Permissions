@@ -1,18 +1,14 @@
 <?php
 
 return [
-
-
-
     'permissions' => [
-
         'admin' => [
-            'admin.posts.create',
-            'admin.posts.read',
-            'admin.posts.update',
-            'admin.posts.delete',
+            'admin.permission.one',
+            'admin permission two',
+            'permission-three',
         ],
-
+        'user' => [
+            'user.permission.one',
+        ],
     ]
-
 ];
