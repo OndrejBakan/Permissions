@@ -1,10 +1,14 @@
 {
     "name": "ondrejbakan/permissions",
+    "description": "Very simple roles and permissions for Laravel 5.",
     "authors": [
         {
             "name": "Ondrej Bakan",
             "email": "ondrej@bakan.cz"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.5.9"
+    }
 }
