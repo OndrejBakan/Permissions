@@ -42,6 +42,6 @@ class PermissionsRegistrar
             });
         });
 
-        return collect($permissionsWithRoles);
+        return $permissionsWithRoles;
     }
 }
