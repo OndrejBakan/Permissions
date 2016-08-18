@@ -1,14 +1,20 @@
 {
-    "name": "ondrejbakan/permissions",
-    "description": "Very simple roles and permissions for Laravel 5.",
-    "authors": [
-        {
-            "name": "Ondrej Bakan",
-            "email": "ondrej@bakan.cz"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-      "php": ">=5.5.9"
+  "name": "ondrejbakan/permissions",
+  "description": "Very simple roles and permissions for Laravel 5.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Ondrej Bakan",
+      "email": "ondrej@bakan.cz"
     }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "OndrejBakan\\Permissions\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
 }
