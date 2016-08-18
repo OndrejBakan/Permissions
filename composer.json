@@ -1,7 +1,7 @@
 {
   "name": "ondrejbakan/permissions",
   "description": "Very simple roles and permissions for Laravel 5.",
-  "version": "v0.0.2",
+  "version": "v1.0.0",
   "authors": [
     {
       "name": "Ondrej Bakan",
